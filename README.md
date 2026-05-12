@@ -84,45 +84,26 @@ class About extends Me {
       "Java",
       "C++",
       "JavaScript"
-    },
-
-    "FrontendDevelopment" : {
+    },"FrontendDevelopment" : {
       "HTML",
       "CSS",
       "React"
-    },
-
-    "MobileDevelopment" : {
+    },"MobileDevelopment" : {
       "Flutter"
-    },
-
-    "BackendDevelopment" : {
-      "Flask"
-    },
-
-    "Database" : {
+    },"Database" : {
       "Firebase",
       "SQLite",
       "SQL"
-    },
-
-    "DataScienceTools" : {
+    },"DataScienceTools" : {
       "Pandas",
       "NumPy",
       "Google Colab"
-    },
-
-    "Editors" : {
+    },"Editors" : {
       "VS Code",
       "Windsurf"
-    },
-
-    "Platforms" : {
+    },"Platforms" : {
       "Windows",
-      "Linux"
-    },
-
-    "OtherTools" : {
+    }, "OtherTools" : {
       "Git",
       "Figma",
       "Photoshop"
