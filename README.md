@@ -63,17 +63,74 @@
 ```dart
 // tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Python", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Javascript", "Json",  },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Antigravity", "Windsurf",  },
-    "Platforms" : {  "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop" }
+class About extends Me {
+
+  const myTools = {
+
+    "AI_&_Machine_Learning" : {
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-Learn",
+      "OpenCV"
+    },
+
+    "ProgrammingLanguages" : {
+      "Python",
+      "Dart",
+      "Java",
+      "C++",
+      "JavaScript"
+    },
+
+    "FrontendDevelopment" : {
+      "HTML",
+      "CSS",
+      "React"
+    },
+
+    "MobileDevelopment" : {
+      "Flutter"
+    },
+
+    "BackendDevelopment" : {
+      "Flask"
+    },
+
+    "Database" : {
+      "Firebase",
+      "SQLite",
+      "SQL"
+    },
+
+    "DataScienceTools" : {
+      "Pandas",
+      "NumPy",
+      "Google Colab"
+    },
+
+    "Editors" : {
+      "VS Code",
+      "Windsurf"
+    },
+
+    "Platforms" : {
+      "Windows",
+      "Linux"
+    },
+
+    "OtherTools" : {
+      "Git",
+      "Figma",
+      "Photoshop"
+    }
   };
 }
 ```
+
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
