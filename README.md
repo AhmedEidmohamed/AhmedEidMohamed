@@ -60,57 +60,7 @@
 
 
 
-```dart
-// tools_I_use organized
 
-class About extends Me {
-
-  const myTools = {
-
-    "AI_&_Machine_Learning" : {
-      "Machine Learning",
-      "Deep Learning",
-      "NLP",
-      "Computer Vision",
-      "TensorFlow",
-      "PyTorch",
-      "Scikit-Learn",
-      "OpenCV"
-    },
-
-    "ProgrammingLanguages" : {
-      "Python",
-      "Dart",
-      "Java",
-      "C++",
-      "JavaScript"
-    },"FrontendDevelopment" : {
-      "HTML",
-      "CSS",
-      "React"
-    },"MobileDevelopment" : {
-      "Flutter"
-    },"Database" : {
-      "Firebase",
-      "SQLite",
-      "SQL"
-    },"DataScienceTools" : {
-      "Pandas",
-      "NumPy",
-      "Google Colab"
-    },"Editors" : {
-      "VS Code",
-      "Windsurf"
-    },"Platforms" : {
-      "Windows",
-    }, "OtherTools" : {
-      "Git",
-      "Figma",
-      "Photoshop"
-    }
-  };
-}
-```
 
 
 
